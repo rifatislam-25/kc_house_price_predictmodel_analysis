@@ -61,5 +61,5 @@ This report presents a comparative analysis of different machine learning models
 ✔ The analysis suggests that **XGBoost with Winsorization is the optimal choice** for predicting house prices in this dataset.
 
 ---
-📌 **Project Repository:** [GitHub Link](#) *(Replace with your actual repo link)*
+📌 **Project Repository:** https://github.com/rifatislam-25/kc_house_price_predictmodel_analysis
 
